@@ -1,5 +1,5 @@
 <h4 align="center">
-  🚀 Semana OmniStack 7.0
+  🚀 Semana OmniStack 7.0 - InstaRocket
 </h4>
 
 <p align="center">
